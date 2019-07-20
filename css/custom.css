@@ -1,0 +1,38 @@
+
+.navbar .navbar-brand {
+	color: rgba(255, 255, 255, .85);
+	font-size: 1rem;
+	padding-top: .45rem;
+}
+
+.btn,
+.active {
+	transition: .4s;
+}
+
+#home nav {
+	background: #233E6F;
+	box-shadow: 0 1px 1px rgba(0,0,0,.1);
+}
+
+#home .jumbotron .lead {
+	font-size: 2rem;
+}
+
+.jumbotron {
+	background: linear-gradient(#233E6F, transparent 90%), linear-gradient(0deg, #fff, transparent), #233E6F url('../img/bg-conf.png') no-repeat center; 
+	background-size: cover;
+}
+
+.jumbotron h1:nth-of-type(2) {
+	font-size: 8em;
+}
+#home .svg {
+	color: #E1E8F0;
+}
+
+#home .container .message {
+	line-height: 30px;
+}
+
+

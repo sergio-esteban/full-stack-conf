@@ -1,0 +1,13 @@
+{
+  "name": "full-stack-conf-bootstrap-master",
+  "version": "1.0.0",
+  "description": "Fictitious javaScript conferences called full stack conf to how to use bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run lite",
+    "lite": "lite-server"
+  },
+  "author": "sergio torres",
+  "license": "ISC"
+}
